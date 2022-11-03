@@ -3,7 +3,7 @@ public class Square {
 
 	public static int square(int x) {
 
-		return x * x;
+		return x * x * x;
 
 	}
 

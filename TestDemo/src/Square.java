@@ -1,6 +1,12 @@
 
 public class Square {
 
+	/**
+	 * 
+	 * @param x
+	 * @return
+	 */
+
 	public static int square(int x) {
 
 		return x * x * x;
